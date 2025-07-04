@@ -1,6 +1,6 @@
 # FawryChallenge - Output
 
-## Test Case 1: Successful Checkout
+## test case 1: successful checkout
 
 ```
 ** Shipment notice **
@@ -25,7 +25,7 @@ END.
 
 ---
 
-## Test Case 2: Empty Cart
+## test case 2: empty Cart
 
 ```
 Error: Cart is empty
@@ -33,7 +33,7 @@ Error: Cart is empty
 
 ---
 
-## Test Case 3: Insufficient Balance
+## test case 3: insufficient balance
 
 ```
 Error: Customer's balance is insufficient
@@ -41,7 +41,7 @@ Error: Customer's balance is insufficient
 
 ---
 
-## Test Case 4: Out of Stock
+## test case 4: out of stock
 
 ```
 Error: Insufficient stock for Cheese
@@ -49,7 +49,7 @@ Error: Insufficient stock for Cheese
 
 ---
 
-## Test Case 5: Expired Product
+## test case 5: expired product
 
 ```
 Error: Expired Cheese is expired
@@ -57,7 +57,7 @@ Error: Expired Cheese is expired
 
 ---
 
-## Test Case 6: Non-shippable Items Only
+## test case 6: non-shippable items only
 
 ```
 ** Checkout receipt **
